@@ -2,7 +2,7 @@
 
 📒 Descrição
 
-Este projeto recria em imagens ultrarrealistas o histórico primeiro pouso de astronautas brasileiros em Marte. A ideia foi imaginar e dar vida a um momento que ainda não aconteceu, mas que poderia estar a poucos anos de se tornar realidade, explorando o orgulho nacional e a grandeza da exploração espacial.
+Este projeto cria em imagens ultrarrealistas o histórico primeiro pouso de astronautas brasileiros em Marte. A ideia foi imaginar e dar vida a um momento que ainda não aconteceu, mas que poderia estar a poucos anos de se tornar realidade, explorando o orgulho nacional e a grandeza da exploração espacial.
 
 🤖 Tecnologias Utilizadas
 
